@@ -1,5 +1,5 @@
 [project]
-name = "flask-register-blueprints"
+name = "flask-blueprints"
 version = "0.0.1"
 authors = [
   { name="Damien Bezborodov", email="dbezborodov@gmail.com" },
