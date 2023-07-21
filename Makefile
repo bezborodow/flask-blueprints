@@ -5,5 +5,5 @@ publish:
 	python3 -m twine upload --repository pypi dist/*
 
 clean:
-	rm dist/*
-	rmdir dist/
+	rm -fr dist
+	rm -fr flask_blueprints.egg-info
