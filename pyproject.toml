@@ -1,6 +1,6 @@
 [project]
 name = "flask-blueprints"
-version = "0.0.4"
+version = "0.0.5"
 authors = [
   { name="Damien Bezborodov", email="dbezborodov@gmail.com" },
 ]
@@ -15,5 +15,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/bezborodow/flask-register-blueprints"
-"Bug Tracker" = "https://github.com/bezborodow/flask-register-blueprints/issues"
+"Homepage" = "https://github.com/bezborodow/flask-blueprints"
+"Bug Tracker" = "https://github.com/bezborodow/flask-blueprints/issues"
