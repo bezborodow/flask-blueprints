@@ -1,4 +1,6 @@
-# flask-blueprints
+# Flask Blueprint Autoimporter
+
+**`flask-blueprints`** will import and register all nested Flask Blueprints under a given package directory.
 
 ## Synopsis
 
