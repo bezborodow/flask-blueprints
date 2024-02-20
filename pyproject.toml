@@ -4,7 +4,7 @@ version = "0.0.5"
 authors = [
   { name="Damien Bezborodov", email="dbezborodov@gmail.com" },
 ]
-description = "Register all Flask Blueprints (including nested) from a package directory."
+description = "Import and register all Flask Blueprints (including nested) from a package directory."
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
